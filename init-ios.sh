@@ -16,8 +16,8 @@
 #
 
 # IJK_FFMPEG_UPSTREAM=git://git.videolan.org/ffmpeg.git
-IJK_FFMPEG_UPSTREAM=https://github.com/Bilibili/FFmpeg.git
-IJK_FFMPEG_FORK=https://github.com/Bilibili/FFmpeg.git
+IJK_FFMPEG_UPSTREAM=git@github.com:17media/ios-ijkplayer-ffmpeg.git
+IJK_FFMPEG_FORK=git@github.com:17media/ios-ijkplayer-ffmpeg.git
 IJK_FFMPEG_COMMIT=ff3.1--ijk0.6.2--20160926--001
 IJK_FFMPEG_LOCAL_REPO=extra/ffmpeg
 
