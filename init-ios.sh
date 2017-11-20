@@ -18,10 +18,10 @@
 # IJK_FFMPEG_UPSTREAM=git://git.videolan.org/ffmpeg.git
 IJK_FFMPEG_UPSTREAM=git@github.com:17media/ios-ijkplayer-ffmpeg.git
 IJK_FFMPEG_FORK=git@github.com:17media/ios-ijkplayer-ffmpeg.git
-IJK_FFMPEG_COMMIT=ff3.1--ijk0.6.2--20160926--001
+IJK_FFMPEG_COMMIT=
 IJK_FFMPEG_LOCAL_REPO=extra/ffmpeg
 
-IJK_GASP_UPSTREAM=https://github.com/Bilibili/gas-preprocessor.git
+IJK_GASP_UPSTREAM=git@github.com:17media/ios-gas-preprocessor.git
 
 # gas-preprocessor backup
 # https://github.com/Bilibili/gas-preprocessor.git
